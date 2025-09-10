@@ -1,0 +1,22 @@
+body { 
+    background: #f5f6fa; 
+}
+
+.broker-card { 
+    margin-bottom: 20px; 
+}
+
+.status-online { 
+    color: green; 
+    font-weight: bold; 
+}
+
+.status-offline { 
+    color: red; 
+    font-weight: bold; 
+}
+
+.last-messages { 
+    max-height: 150px; 
+    overflow-y: auto; 
+}

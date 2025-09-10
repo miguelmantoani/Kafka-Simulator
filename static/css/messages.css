@@ -1,0 +1,8 @@
+body { 
+    background: #f5f6fa; 
+}
+
+.messages-list { 
+    max-height: 400px; 
+    overflow-y: auto; 
+}
